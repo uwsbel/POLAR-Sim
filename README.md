@@ -36,5 +36,18 @@ Please check the *TerrainMeshes* folder. Meshes of the separated ground and rock
 # Questions And Bug Logs
 Please raise Issues if you have any questions or find any bug. Thank you for your contributions to make this project more complete!
 
+# Ppaer Citation
+If you use our dataset, please consider citing our paper, which includes some cases of how to utilize the POLAR3D dataset
+
+<a href="https://arxiv.org/abs/2309.12397" target="_blank">Paper</a>
+
+@misc{chen2023polar3d,
+      title={POLAR3D: Augmenting NASA's POLAR Dataset for Data-Driven Lunar Perception and Rover Simulation}, 
+      author={Bo-Hsun Chen and Peter Negrut and Thomas Liang and Nevindu Batagoda and Harry Zhang and Dan Negrut},
+      year={2023},
+      eprint={2309.12397},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
 # Copyright
 All rights reserved by the Simulation Based Engineering Lab in the University of Wisconsin-Madison
