@@ -51,5 +51,12 @@ If you use the POLAR3D dataset, please consider citing our paper, which also inc
 }
 ```
 
+# Contributors
+Advisor: Prof. Dan Negrut
+Coordinators: Bo-Hsun Chen, Thomas Liang
+bounding box labeling: Bo-Hsun Chen (Terrain 1), Peter Negrut (the other terrains)
+terrain digitization: Bo-Hsun Chen (Terrains 1, 4, 11), Thomas Liang (Terrain 9), the rest is ongoing
+semantic segmentation labeling: the rest is ongoing
+
 # Copyright
 All rights reserved by the Simulation Based Engineering Lab in the University of Wisconsin-Madison
