@@ -1,6 +1,10 @@
 # POLAR3D
 a database of bounding box labels and terrain meshes for the <a href="https://ti.arc.nasa.gov/dataset/IRG_PolarDB/" target="_blank">POLAR dataset</a>
 
+# Logs
+7/9/2024
+1. Cover photo bugs fixed.
+
 # Cover Photos
 Pictures in the *CoverPhotos* folder show how we index the rocks in each terrain. The indices do not meet the label orders in the bounding box label txt files. The indices meet the rock ID of the mesh files in each terrain. Original pictures come from the POLAR dataset.
 
