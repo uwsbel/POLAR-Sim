@@ -4,6 +4,9 @@ a database of bounding box labels and terrain meshes for the <a href="https://ti
 # Logs
 7/9/2024
 1. Cover photo bugs fixed.
+2. Ground in Terrain 1 revised.
+3. Rock meshes in Terrains 2, 3 and 5 uploaded.
+
 
 # Cover Photos
 Pictures in the *CoverPhotos* folder show how we index the rocks in each terrain. The indices do not meet the label orders in the bounding box label txt files. The indices meet the rock ID of the mesh files in each terrain. Original pictures come from the POLAR dataset.
