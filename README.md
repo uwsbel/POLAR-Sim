@@ -5,7 +5,7 @@ a database of bounding box labels and terrain meshes for the <a href="https://ti
 7/9/2024
 1. Cover photo bugs fixed.
 2. Ground in Terrain 1 revised.
-3. Rock meshes in Terrains 2, 3 and 5 uploaded.
+3. Rock meshes and some ground meshes (smaller than 100 MB) in Terrains 2, 3, 5, 6, 7, 8, 9, 10, and 12 uploaded.
 
 
 # Cover Photos
