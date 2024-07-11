@@ -1,5 +1,65 @@
 # POLAR3D
 a database of bounding box labels and terrain meshes for the <a href="https://ti.arc.nasa.gov/dataset/IRG_PolarDB/" target="_blank">POLAR dataset</a>
+<table>
+	<tr>
+		<td style="width:33%">
+			<p style="text-align:center; margin-bottom: 0px">Terrain 1</p>
+			<img src="./MeshCoverImgs/mesh_cover_img_01.png" alt="Image 1"/>
+		</td>
+		<td style="width:33%">
+			<p style="text-align:center; margin-bottom: 0px">Terrain 2</p>
+			<img src="./MeshCoverImgs/mesh_cover_img_02.png" alt="Image 2"/>
+		</td>
+		<td style="width:33%">
+			<p style="text-align:center; margin-bottom: 0px">Terrain 3</p>
+			<img src="./MeshCoverImgs/mesh_cover_img_03.png" alt="Image 3"/>
+		</td>
+	</tr>
+	<tr>
+		<td style="width:33%">
+			<p style="text-align:center; margin-bottom: 0px">Terrain 4</p>
+			<img src="./MeshCoverImgs/mesh_cover_img_04.png" alt="Image 4"/>
+		</td>
+		<td style="width:33%">
+			<p style="text-align:center; margin-bottom: 0px">Terrain 5</p>
+			<img src="./MeshCoverImgs/mesh_cover_img_05.png" alt="Image 5"/>
+		</td>
+		<td style="width:33%">
+			<p style="text-align:center; margin-bottom: 0px">Terrain 6</p>
+			<img src="./MeshCoverImgs/mesh_cover_img_06.png" alt="Image 6"/>
+		</td>
+	</tr>
+	<tr>
+		<td style="width:33%">
+			<p style="text-align:center; margin-bottom: 0px">Terrain 7</p>
+			<img src="./MeshCoverImgs/mesh_cover_img_07.png" alt="Image 7"/>
+		</td>
+		<td style="width:33%">
+			<p style="text-align:center; margin-bottom: 0px">Terrain 8</p>
+			<img src="./MeshCoverImgs/mesh_cover_img_08.png" alt="Image 8"/>
+		</td>
+		<td style="width:33%">
+			<p style="text-align:center; margin-bottom: 0px">Terrain 9</p>
+			<img src="./MeshCoverImgs/mesh_cover_img_09.png" alt="Image 9"/>
+		</td>
+	</tr>
+	<tr>
+		<td style="width:33%">
+			<p style="text-align:center; margin-bottom: 0px">Terrain 10</p>
+			<img src="./MeshCoverImgs/mesh_cover_img_10.png" alt="Image 10"/>
+		</td>
+		<td style="width:33%">
+			<p style="text-align:center; margin-bottom: 0px">Terrain 11</p>
+			<img src="./MeshCoverImgs/mesh_cover_img_11.png" alt="Image 11"/>
+		</td>
+		<td style="width:33%">
+			<p style="text-align:center; margin-bottom: 0px">Terrain 12</p>
+			<img src="./MeshCoverImgs/mesh_cover_img_12.png" alt="Image 12"/>
+		</td>
+	</tr>
+</table>
+
+<!-- |![mesh_cover_img_01](./MeshCoverImgs/mesh_cover_img_01.png) | ![mesh_cover_img_02](./MeshCoverImgs/mesh_cover_img_02.png) | ![mesh_cover_img_03](./MeshCoverImgs/mesh_cover_img_03.png) -->
 
 # Logs
 7/9/2024
