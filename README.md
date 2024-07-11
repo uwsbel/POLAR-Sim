@@ -103,10 +103,10 @@ Please check the *TerrainMeshes* folder. Meshes of the separated ground and rock
 
 - Terrain 4: Rocks 16 and 17 in the cover photo were combined into Rock 16 mesh obj file, since they were indivisible along X, Y, or Z axis.
 
-# Questions And Bug Logs
+# Questions and bug logs
 Please raise Issues if you have any questions or find any bug. Thank you for your contributions to make this project more complete!
 
-# Paper Citation
+# Paper citation
 If you use the POLAR3D dataset, please consider citing our paper, which also includes some cases of how to utilize the POLAR3D dataset.
 
 <a href="https://arxiv.org/abs/2309.12397" target="_blank">Paper</a>
