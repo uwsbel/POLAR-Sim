@@ -60,7 +60,8 @@ a database of bounding box labels and terrain meshes for the <a href="https://ti
 </table>
 
 # Ground meshes
-The ground mesh for each terrain is stored in the following link due to their large file sizes,
+The ground mesh for each terrain is stored in the following link due to their large file sizes.
+
 <a href="https://uwmadison.box.com/s/gyhe2ggwb0v40ivbt7jx4pn6temadkbe" target="_blank">Box link</a>
 
 # Logs
