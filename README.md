@@ -59,11 +59,9 @@ a database of bounding box labels and terrain meshes for the <a href="https://ti
 	</tr>
 </table>
 
-<!-- |![mesh_cover_img_01](./MeshCoverImgs/mesh_cover_img_01.png) | ![mesh_cover_img_02](./MeshCoverImgs/mesh_cover_img_02.png) | ![mesh_cover_img_03](./MeshCoverImgs/mesh_cover_img_03.png) -->
-
 # Ground meshes
 The ground mesh for each terrain is stored in the following link due to their large file sizes,
-https://uwmadison.box.com/s/gyhe2ggwb0v40ivbt7jx4pn6temadkbe
+<a href="https://uwmadison.box.com/s/gyhe2ggwb0v40ivbt7jx4pn6temadkbe" target="_blank">https://uwmadison.box.com/s/gyhe2ggwb0v40ivbt7jx4pn6temadkbe</a>
 
 # Logs
 7/9/2024
