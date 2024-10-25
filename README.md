@@ -76,6 +76,21 @@ The ground mesh for each terrain is stored in the following link due to their la
 # Cover photos of rock indices
 Pictures in the *CoverPhotoOfIndices* folder show how we index the rocks in each terrain. The indices do not meet the label orders in the bounding box label txt files. The indices meet the rock ID of the mesh files in each terrain. Original pictures come from the POLAR dataset.
 
+# Segmentation Labels
+Please check the *SegmentationLabels* folder. The annotations were done with Roboflow. The bounding box label files in YOLO format are categorized in the terrain ID folders. Each txt file corresponds with one HDR photo of the POLAR dataset.
+
+- The label files are named as the following rule:  
+[terrain ID]\_[stereo camera position]\_[rover light on/off]\_[Sun azimuth]\_[Left/Right camera of the stereo camera]\_[exposure time in millisecond].txt,  
+and "no" in [Sun azimuth] means that there was no simulated Sun (the spot light was turned off). 
+
+In the YOLO text files, here are the following classes and their corresponding object:
+- class 0 is background
+- class 1 is ground
+- class 2 is rocks
+- class 3 is shadows
+
+To convert a YOLO text file and corresponding POLAR image to a masked bitmap format, you can use the *yolo2bitmap.py* script. 
+
 # Bounding box labels
 Please check the *Labels* folder. The bounding box label files in YOLO format are categorized in the terrain ID folders. Each txt file meets with one HDR photo of the POLAR dataset.
 
