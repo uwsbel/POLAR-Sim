@@ -1,4 +1,4 @@
-# POLAR3D
+# POLAR-Sim
 a database of bounding box labels and terrain meshes for the <a href="https://ti.arc.nasa.gov/dataset/IRG_PolarDB/" target="_blank">POLAR dataset</a>
 <table>
 	<tr>
