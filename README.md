@@ -65,6 +65,9 @@ The ground mesh for each terrain is stored in the following link due to their la
 <a href="https://uwmadison.box.com/s/gyhe2ggwb0v40ivbt7jx4pn6temadkbe" target="_blank">Box link</a>
 
 # Logs
+2/13/2025
+Demo code for rendering rocks using Chrono::Sensor in Chrono 8.0 uploaded.
+
 7/9/2024
 1. Cover photo bugs fixed.
 2. Ground in Terrain 1 revised.
