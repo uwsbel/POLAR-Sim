@@ -65,6 +65,9 @@ The ground mesh for each terrain is stored in the following link due to their la
 <a href="https://uwmadison.box.com/s/gyhe2ggwb0v40ivbt7jx4pn6temadkbe" target="_blank">Box link</a>
 
 # Logs
+5/2/2025
+All annotation labels have been uploaded.
+
 2/13/2025
 Demo code for rendering rocks using Chrono::Sensor in Chrono 8.0 uploaded.
 
@@ -148,7 +151,7 @@ Bounding box labeling: Bo-Hsun Chen (Terrain 1), Peter Negrut (the other terrain
 
 Terrain digitization: Bo-Hsun Chen (Terrains 1, 4, 11), Thomas Liang (Terrain 9), Peter Negrut (Terrains 2, 3, 5, 6, 7, 8, 10, 12)
 
-Semantic segmentation labeling: the rest is ongoing
+Semantic segmentation labeling: will be updated soon here ...
 
 # Copyright
 All rights reserved by the Simulation Based Engineering Lab in the University of Wisconsin-Madison
