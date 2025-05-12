@@ -65,11 +65,13 @@ The ground mesh for each terrain is stored in the following link due to their la
 <a href="https://uwmadison.box.com/s/gyhe2ggwb0v40ivbt7jx4pn6temadkbe" target="_blank">Box link</a>
 
 # Logs
-5/2/2025
-All annotation labels have been uploaded.
+5/12/2025
+1. The namelist of the contributors was updated, and Copyright section was updated.
 
 2/13/2025
-Demo code for rendering rocks using Chrono::Sensor in Chrono 8.0 uploaded.
+1. All annotation labels have been uploaded.
+2. Demo code for rendering rocks using Chrono::Sensor in Chrono 8.0 uploaded.
+
 
 7/9/2024
 1. Cover photo bugs fixed.
@@ -133,7 +135,7 @@ If you use the POLAR3D dataset, please consider citing our paper, which also inc
 <a href="https://arxiv.org/abs/2309.12397" target="_blank">Paper</a>
 ```
 @misc{chen2023polar3d,
-      title={POLAR3D: Augmenting NASA's POLAR Dataset for Data-Driven Lunar Perception and Rover Simulation}, 
+      title={POLAR-Sim: Augmenting NASA's POLAR Dataset for Data-Driven Lunar Perception and Rover Simulation}, 
       author={Bo-Hsun Chen and Peter Negrut and Thomas Liang and Nevindu Batagoda and Harry Zhang and Dan Negrut},
       year={2023},
       eprint={2309.12397},
@@ -145,13 +147,16 @@ If you use the POLAR3D dataset, please consider citing our paper, which also inc
 # Contributors
 Advisor: Prof. Dan Negrut
 
-Coordinators: Bo-Hsun Chen, Thomas Liang
+Coordinators: [Bo-Hsun Chen](https://github.com/DanielYamChen/) (mesh construction and bounding box labeling), [Thomas Liang](https://github.com/lliangthomas) (semantic segmentation labeling)
 
 Bounding box labeling: Bo-Hsun Chen (Terrain 1), Peter Negrut (the other terrains)
 
-Terrain digitization: Bo-Hsun Chen (Terrains 1, 4, 11), Thomas Liang (Terrain 9), Peter Negrut (Terrains 2, 3, 5, 6, 7, 8, 10, 12)
+Terrain digitization: Bo-Hsun Chen (Terrains 1, 4, 11), Thomas Liang (Terrain 9), Peter Negrut (the other terrains)
 
-Semantic segmentation labeling: will be updated soon here ...
+Semantic segmentation labeling: Peter Negrut (Terrains 1, 2, 3, 10, 12, 13), Alice Yang (Terrains 4, 5, 7, 8, 9, 11)
+
+We would also like to express our acknowledgements to the high school students Abhinav Annasamudram, Brenden Bushman, Vaidya Srikanth, Li Ying, Shivani Potnuru, and Manushri Muthukumaran for their assistance at the beginning of the semantic segmentation annotation process.
 
 # Copyright
-All rights reserved by the Simulation Based Engineering Lab in the University of Wisconsin-Madison
+This database uses the BSD-3 license. Please see the license page for more details.
+
